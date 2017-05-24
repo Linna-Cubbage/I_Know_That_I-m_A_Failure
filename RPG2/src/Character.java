@@ -1,6 +1,7 @@
 import javax.swing.JOptionPane;
 import javafx.scene.canvas.*;
 import javafx.scene.image.*;
+
 public class Character
 {
 	private String name;

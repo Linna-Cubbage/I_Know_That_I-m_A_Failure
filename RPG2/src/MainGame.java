@@ -30,6 +30,7 @@ public class MainGame extends SimpleApp
 	{
 		hero.move(m.getX(), m.getY());
 	}
+	
 	public void onMouseDragged(MouseEvent m) 
 	{
 		hero.move(m.getX(), m.getY());
